@@ -45,7 +45,8 @@ This dashboard empowers decision-makers to:
 You can download the Power BI (.pbix) file to explore the dashboard in detail.
 
 **Preview:**
-![Dashboard Screenshot](do%20power%20bi%20dashboard%20automation%20and%20data%20modelling.PNG)
+![do power bi dashboard automation and data modelling](https://github.com/user-attachments/assets/99e26689-8633-4958-bda0-307479a01ad9)
+
 
 **How to Access:**
 1. Clone this repository to your local machine.
