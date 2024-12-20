@@ -1,5 +1,6 @@
-# Diversity-Inclusion-Portfolio
-Diversity & Inclusion - Gender Balance Dashboard
+ 
+#Diversity & Inclusion - Gender Balance Dashboard
+![do power bi dashboard automation and data modelling](https://github.com/user-attachments/assets/2838616a-e567-4061-9738-a5e2f0497d08)
 
 Overview:
 This project demonstrates my ability to design and develop interactive, insightful dashboards using Microsoft Power BI. The "Diversity & Inclusion - Gender Balance Dashboard" provides a comprehensive view of key metrics related to gender distribution, hiring trends, promotions, and employee demographics within an organization.
